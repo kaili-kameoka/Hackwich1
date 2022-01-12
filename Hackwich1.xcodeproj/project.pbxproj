@@ -13,6 +13,7 @@
 		B6B70079278E787000A58EE5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B6B70077278E787000A58EE5 /* Main.storyboard */; };
 		B6B7007B278E787100A58EE5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B6B7007A278E787100A58EE5 /* Assets.xcassets */; };
 		B6B7007E278E787100A58EE5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B6B7007C278E787100A58EE5 /* LaunchScreen.storyboard */; };
+		B6B70086278E7D2E00A58EE5 /* Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B6B70085278E7D2E00A58EE5 /* Storyboard.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		B6B7007A278E787100A58EE5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B6B7007D278E787100A58EE5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B6B7007F278E787100A58EE5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B6B70085278E7D2E00A58EE5 /* Storyboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Storyboard.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		B6B70070278E787000A58EE5 /* Hackwich1 */ = {
 			isa = PBXGroup;
 			children = (
+				B6B70085278E7D2E00A58EE5 /* Storyboard.storyboard */,
 				B6B70071278E787000A58EE5 /* AppDelegate.swift */,
 				B6B70073278E787000A58EE5 /* SceneDelegate.swift */,
 				B6B70075278E787000A58EE5 /* ViewController.swift */,
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B6B7007E278E787100A58EE5 /* LaunchScreen.storyboard in Resources */,
+				B6B70086278E7D2E00A58EE5 /* Storyboard.storyboard in Resources */,
 				B6B7007B278E787100A58EE5 /* Assets.xcassets in Resources */,
 				B6B70079278E787000A58EE5 /* Main.storyboard in Resources */,
 			);
